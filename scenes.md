@@ -1,19 +1,19 @@
-## Scenes
+# Scenes
 
-### Background
+## Background
 
 - Player Will be 2x1 tiles tall
 - Each tile will be 32x32 pixels
 
 ### Scenes to Inplement
-1. Game Introduction Scene
+### 1. Game Introduction Scene
 - just a series of comic book like .pngs
 - with paning (zooming and movement)
 - music
 - [optional] narration (dont do)
 - some text
 
-2. Scene for testing combat
+### 2. Scene for testing combat
 - character with gun
 - test dummy
 - hit-scan/collision detection for projectiles
@@ -39,7 +39,7 @@
 - normal mapped lighting for players/weapon
   - ultra low poly 3d models, projected to 2d?
 
-3. Movement Test Scene
+### 3. Movement Test Scene
 - spunkly/metroid like dungeon
 - things jump around on, jump puzzles, vertical cooridors, etc
 - get from starting door, to exit door
@@ -50,14 +50,14 @@
   - double jump
   - crouch
 
-4. 2d side view (terraria like)
+### 4. 2d side view (terraria like)
 - port of github.com/skycoin/cx-game
 - port tile loading and rendering system to C# and run in unity
 - placing blocks/removing blocks, building houses, etc
 - placement of furniture and machines
 - [TODO] Define the drawing layers and write document
 
-5. Ship falling through atomosphere
+### 5. Ship falling through atomosphere
 - gas giant
 - planet warps around in the X axis
 - like Outer Wildes, gas giant
